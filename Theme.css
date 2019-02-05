@@ -1,0 +1,31 @@
+body {
+      background-colour: #4d6680;
+      }
+
+h1 {
+    font-family: "Arial", sans, serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 14px 16px;
+    colour: #809966;
+    }
+
+h1.italic {
+    font-style: italic;
+    }
+
+h2 {
+    font-family: "Arial", sans, serif;
+    text-align: center;
+    padding: 14px 16px;
+    colour: #809966;
+    }
+
+h2.italic {
+    font-style: italic;
+    }
+
+li {
+    font-family: "Arial", sans, serif;
+    font-size:20px;
+   }
